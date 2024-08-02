@@ -57,35 +57,21 @@ details[open] > *:not(summary) {
 # Hallo und herzlich Willkommen an der Pädagogika Fachschule für Sozialwesen in Potsdam 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY</a></p>
 
-
-
-
 Liebe Kolleg*innen,
 hallo und herzlich willkommen an der Pädagogika Fachschule für Sozialwesen. Wir freuen uns sehr, dass du den Weg zu uns gefunden hast. Diese Einführung hilft dir, dich schneller an unserer Fachschule zurechtzufinden. Natürlich ist die Schulleitung dennoch immer ansprechbar, aber hin und wieder ist es sicherlich hilfreich, auch etwas nachlesen zu können.
 
 Das Willkommenstutorial umfasst verschiedene Abschnitte 
-
-* 1. Das Who ist who der Pädagogika
-
-* 2. So sieht es in der Pädagogika aus- ein virtueller Rundgang
-
-3.  Krankheit- und Abwesenheiten melden 
-
-4.  Moodle - unser Lernmanagementsystem
-
-    4.1 So ist die Moodle Struktur
-
-    4.2 Klassenraumstrukturen in Moodle
-
+1. Das Who ist who der Pädagogika
+2. So sieht es in der Pädagogika aus - ein virtueller Rundgang
+3. Krankheit- und Abwesenheiten melden 
+4. Moodle - unser Lernmanagementsystem
+    1. So ist die Moodle Struktur
+    2. Klassenraumstrukturen in Moodle
 5. Schulzeiten
-
 6. Aufgaben von Lehrkräften
-
-    6.1 Unterrichtsbeobachtung
-
-    6.2 Notengebung, Studierendenkrankmeldung und Klassenbuchführung
-
-    6.3 corporate identity
+    1. Unterrichtsbeobachtung
+    2. Notengebung, Studierendenkrankmeldung und Klassenbuchführung
+    3. Corporate Identity
 
 
 ## 1. Das Who ist who der Pädagogika 🧑‍🤝‍🧑
