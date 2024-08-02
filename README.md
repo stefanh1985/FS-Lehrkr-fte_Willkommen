@@ -55,7 +55,7 @@ details[open] > *:not(summary) {
 ![Pädagogika Fachschullogo](https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png)
 
 # Hallo und herzlich Willkommen an der Pädagogika Fachschule für Sozialwesen in Potsdam 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY</a></p>
+<div style="width:50%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY</a></p>
 
 
 
