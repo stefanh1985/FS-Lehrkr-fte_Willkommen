@@ -69,8 +69,8 @@ hallo und herzlich willkommen an der Pädagogika Fachschule für Sozialwesen. Wi
 Das Willkommenstutorial umfasst verschiedene Abschnitte 
 1. Das Who ist who der Pädagogika
 2. So sieht es in der Pädagogika aus- ein virtueller Rundgang
-3. Krankheit- und Abwesenheiten melden 
-4. Moodle - unser Lernmanagementsystem
+3.  Krankheit- und Abwesenheiten melden 
+4.  Moodle - unser Lernmanagementsystem
     4.1 So ist die Moodle Struktur
     4.2 Klassenraumstrukturen in Moodle
 5. Schulzeiten
@@ -78,10 +78,6 @@ Das Willkommenstutorial umfasst verschiedene Abschnitte
     6.1 Unterrichtsbeobachtung
     6.2 Notengebung, Studierendenkrankmeldung und Klassenbuchführung
     6.3 corporate identity
-
-
-
-
 
 ## 1. Das Who ist who der Pädagogika 🧑‍🤝‍🧑
 
