@@ -65,7 +65,17 @@ Das Willkommenstutorial umfasst verschiedene Abschnitte
 2. So sieht es in der Pädagogika aus- ein virtueller Rundgang
 3. Krankheit- und Abwesenheiten melden 
 4. Moodle - unser Lernmanagementsystem
+    4.1 So ist die Moodle Struktur
+    4.2 Klassenraumstrukturen in Moodle
 5. Schulzeiten
+6. Aufgaben von Lehrkräften
+    6.1 Unterrichtsbeobachtung
+    6.2 Notengebung, Studierendenkrankmeldung und Klassenbuchführung
+    6.3 corporate identity
+
+
+
+
 
 ## 1. Das Who ist who der Pädagogika 🧑‍🤝‍🧑
 
@@ -288,11 +298,35 @@ Bei Moodle handelt es sich um ein [Open-Source-Lern-Management-System](https://w
 
 !?[Was ist eigentlich Moodle](https://www.youtube.com/watch?v=FC-GWDvlX8c&start=235)
 
+Innerhalb des Moodlesystems ist auch eine differenziertes Anwendungsbuch hinterlegt, dass sowohl Schritt- für -Schritt Erklärungen enthält als auch differenzierte Videotutorials (https://lms.paedagogika.com/mod/book/view.php?id=1454). Nach dem Login ist dieses im Dozent_innenzimmer
+--->Anleitungen--->Moodle Anleitung zu finden.
+
 
 ### 4.1 So ist die Moodlestrukur
 
 <iframe src="https://app.Lumi.education/api/v1/run/-DsmjL/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
 
+### 4.2 Klassenraumstrukturen in Moodle
+Die Klassenräume in Moodle werden durch die Pädagogische Schulleitung zur Verfügung gestellt, daher weißen sie eine Grundsatzstruktur auf, die im folgenden erörtert wird.
+Insgesamt ist der Lehrraum in verschiedene Parzellen unterteilt, wie folgendes Video erklärt
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XgLqcXJyMr4?si=uXw7Vnuya03b5wTL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 # 5. Schul- und Unterrichtszeiten
-Prinzipiell gilt, dass die Schule sich an den Schulferien des Landes Brandenburg hält.
+Prinzipiell gilt, dass die Schule sich an den Schulferien des Landes Brandenburg hält. Die Unterrichtszeiten erstrecken sich von 08:30-16:30 Uhr bzw. bis 15:30 Uhr. Am Mittwoch und Donnerstag werden Zeiten für andere Lernformen ausgewiesen. An diesen Zeiten haben die Studierenden Selbstlernzeit hier findet kein Unterricht statt.
+
+# 6. Aufgabe Lehrkräfte
+Mit der Fortentwicklung der Schule entwickeln sich auch die Zuständigkeiten und Aufgaben für verschiedene Personenruppen weiter. Die Schulleitung hat daher einen Überblick über die Aufgaben für die einzelnen Personengruppen entwickelt, die hier abzurufen sind (https://cloud.die-kinderwelt.com/s/kJD2NG6WA8qxGpA)
+
+## 6.1 Unterrichtsbeobachtung
+Im Zusammenhang mit dem Qualitätsmanagement der Schule besucht die pädagogische Schulleitung (später auch kollegiale Besuche) einmal im Jahr die Kolleg*innen im Unterricht zur Unterrichtsbeobachtung. Zielsetzung dabei ist die Reflexion des eigenen Lehrendenhandelns. Bei den Unterrichtsbeobachtungen handelt es sich um ein standarisiertes Verfahren, wie es hier zu finden ist (https://cloud.die-kinderwelt.com/s/Jy5YEQPF8ANHQgc)
+
+## 6.2 Notengebung, Studierendenkrankmeldung und Klassenbuchführung
+Die Notengebung erfolgt den Richtlinien des Landes Brandenburg nach. Für Klausuren liegt eine Bundeslandeigene Bepunktungsliste vor (https://cloud.die-kinderwelt.com/s/Kow7d4gowrZzYiF).
+Die Zensuren werden zentral über das Portal des Landes Brandenburg WeBBschule eingetragen (https://schulportal.brandenburg.de/webbschule/anmeldung), ebenso die Fehlzeiten. Die fehlzeiten werden freundlicherweise durch unseren Empfang eingetragen. Die Studierenden sind verpflichtet etwaige Fehlzeiten sofort über die Mailadresse krankschreibung@paedagogika.com zu melden.
+
+## 6.3 corporate identity
+Im Kontext von Schule und Unterricht müssen immer wieder Lehr- und andere Materialien angefretigt werden, damit diese ein möglichst einheitliches Bild aufweisen und das corporate identity gewahrt wird gibt es Vorlagen, die hier abzurufen und zu verwenden sind (https://cloud.die-kinderwelt.com/s/Cem43k6NRa6HSdz)
+
+## 6.4
