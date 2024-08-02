@@ -57,6 +57,12 @@ details[open] > *:not(summary) {
 # Hallo und herzlich Willkommen an der Pädagogika Fachschule für Sozialwesen in Potsdam 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY</a></p>
 
+
+
+
+
+
+
 Liebe Kolleg*innen,
 hallo und herzlich willkommen an der Pädagogika Fachschule für Sozialwesen. Wir freuen uns sehr, dass du den Weg zu uns gefunden hast. Diese Einführung hilft dir, dich schneller an unserer Fachschule zurechtzufinden. Natürlich ist die Schulleitung dennoch immer ansprechbar, aber hin und wieder ist es sicherlich hilfreich, auch etwas nachlesen zu können.
 
