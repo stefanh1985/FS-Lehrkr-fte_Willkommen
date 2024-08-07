@@ -149,7 +149,8 @@ E-Mail: leitung@paedagogika.com
 **Sandra Schmidt- Das Head of +2**
 ===
 
-![Sandra Schmidt](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=sandra-schmidt.jpg)<!-- class="person-img" -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CzzVDJP_u08?si=Ir47Cq9rjpyAEzrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
 
 <details>
 <summary>Meine Zentrale Eigenschaft</summary>
