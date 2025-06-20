@@ -54,10 +54,19 @@ details[open] > *:not(summary) {
 -->
 ![Pädagogika Fachschullogo](https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png)
 
-# Hallo und herzlich Willkommen an der Pädagogika Fachschule für Sozialwesen in Potsdam
+# Hallo und herzlich Willkommen an der Pädagogika Fachschule für Sozialwesen in Potsdam- Lehrkräfteversion 
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY</a></p>
+---
 
+---
+
+
+
+
+
+---
+---
 Liebe Kolleg*innen,
 
 hallo und herzlich willkommen an der Pädagogika Fachschule für Sozialwesen. Wir freuen uns sehr, dass du den Weg zu uns gefunden hast. Diese Einführung hilft dir, dich schneller an unserer Fachschule zurechtzufinden. Natürlich ist die Schulleitung dennoch immer ansprechbar, aber hin und wieder ist es sicherlich hilfreich, auch etwas nachlesen zu können.
@@ -70,6 +79,7 @@ Das Willkommenstutorial umfasst verschiedene Abschnitte:
 4. Moodle - unser Lernmanagementsystem
     1. So ist die Moodle Struktur
     2. Klassenraumstrukturen in Moodle
+    3. Dozent*innenzimmer
 5. Schulzeiten
 6. Aufgaben von Lehrkräften
     1. Unterrichtsbeobachtung
@@ -94,7 +104,7 @@ Mein häufigster Spruch des Tages : "Hallo und herzlich Willkommen an der Pädag
 </details>
 
 <details>
-<summary>Meine Aufgabe im Unternehmen</summary>
+<sum.mary>Meine Aufgabe im Unternehmen</summary>
 
 Ich kümmere mich um die Organisation der Fort- und Weiterbildung, die Raumbelegung und um die Begrüßung der ankommenden Gäste. Auch für Fragen der Bibliothek bin ich Ansprechpartner*in.
 
@@ -294,14 +304,19 @@ E-Mail: krankschreibung@paedagogika.com
 </details>
 
 ## 4. Moodle - unser Lernmanagementsystem 💻
-
 ![moodle icon](https://tracker.moodle.org/secure/attachment/62695/Mobile-M-Icon-1-corners.png)
 Bei Moodle handelt es sich um ein [Open-Source-Lern-Management-System](https://www.redhat.com/de/topics/open-source/what-is-open-source), das ermöglicht, gemeinschaftlich Unterrichtsgegenstände abzulegen, zu verändern und weiterzubearbeiten, und über die Funktion 'Forum' in Kontakt zu bleiben. Schaut das folgende Video bis Minute 3:55 an
+---
 
 !?[Was ist eigentlich Moodle](https://www.youtube.com/watch?v=FC-GWDvlX8c&start=235)
 
-Innerhalb des Moodlesystems ist auch eine differenziertes Anwendungsbuch hinterlegt, dass sowohl Schritt- für -Schritt Erklärungen enthält als auch differenzierte Videotutorials (https://lms.paedagogika.com/mod/book/view.php?id=1454). Nach dem Login ist dieses im Dozent_innenzimmer
---->Anleitungen--->Moodle Anleitung zu finden.
+### Moodle eine hausinterne Anleitung
+
+Innerhalb des Moodlesystems ist auch eine differenziertes Anwendungsbuch hinterlegt, dass sowohl Schritt- für -Schritt Erklärungen enthält als auch differenzierte Videotutorials (https://lms.paedagogika.com/mod/book/view.php?id=1454). Nach dem Login ist dieses im Dozent_innenzimmer unter Anleitungen--->Moodle Anleitung zu finden.
+
+---
+
+![](36ed80b0b596ee50bf2ffa4a0c883cd9a0b5eea7.png)
 
 
 ### 4.1 So ist die Moodlestrukur
@@ -313,6 +328,14 @@ Die Klassenräume in Moodle werden durch die Pädagogische Schulleitung zur Verf
 Insgesamt ist der Lehrraum in verschiedene Parzellen unterteilt, wie folgendes Video erklärt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XgLqcXJyMr4?si=uXw7Vnuya03b5wTL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### 4.3 Dozent*innenzimmer
+Das Dozent*innenzimmer ist der Dreh- und Angelpunkt für die Lehrkräfte. Im folgenden Video gibt es eine kleine Übersicht: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ulcVPUFKCCE?si=yQWzpC7oV31II00G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 
 
 # 5. Schul- und Unterrichtszeiten
@@ -331,4 +354,3 @@ Die Zensuren werden zentral über das Portal des Landes Brandenburg WeBBschule e
 ## 6.3 corporate identity
 Im Kontext von Schule und Unterricht müssen immer wieder Lehr- und andere Materialien angefretigt werden, damit diese ein möglichst einheitliches Bild aufweisen und das corporate identity gewahrt wird gibt es Vorlagen, die hier abzurufen und zu verwenden sind (https://cloud.die-kinderwelt.com/s/Cem43k6NRa6HSdz)
 
-## 6.4
