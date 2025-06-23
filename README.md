@@ -69,9 +69,9 @@ details[open] > *:not(summary) {
 ---
 Liebe Kolleg*innen,
 
-hallo und herzlich willkommen an der Pädagogika Fachschule für Sozialwesen. Wir freuen uns sehr, dass du den Weg zu uns gefunden hast. Diese Einführung hilft dir, dich schneller an unserer Fachschule zurechtzufinden. Natürlich ist die Schulleitung dennoch immer ansprechbar, aber hin und wieder ist es sicherlich hilfreich, auch etwas nachlesen zu können.
+Hallo und herzlich willkommen an der Pädagogika-Fachschule für Sozialwesen. Wir freuen uns sehr, dass du den Weg zu uns gefunden hast. Dieses Willkommenstutorial hilft dir, dich schneller an unserer Fachschule zurechtzufinden. Natürlich ist die Schulleitung jederzeit ansprechbar, aber hin und wieder ist es sicherlich hilfreich, auch etwas nachlesen zu können.
 
-Das Willkommenstutorial umfasst verschiedene Abschnitte:
+Dieses Willkommenstutorial umfasst verschiedene Abschnitte:
 
 1. Das Who ist who der Pädagogika
 2. So sieht es in der Pädagogika aus - ein virtueller Rundgang
@@ -88,9 +88,10 @@ Das Willkommenstutorial umfasst verschiedene Abschnitte:
 
 
 
+
 ## 1. Das Who ist who der Pädagogika 🧑‍🤝‍🧑
 
-Die Pädagogika als Tochter der Kinderwelt ist der Arbeitgeber. Neben der Fachschule finden hier auch Aus- und Fortbildungen statt. Damit ist auch verbunden, dass nicht ausschließlich Lehrkräfte im Alltag anzutreffen sind, sondern auch andere Personen, die dafür Sorge tragen, dass der Alltag bewältigt werden kann. Im Folgenden stellen sie sich einmal vor.
+Die Pädagogika als Tochtergesellschaft der Kinderwelt ist deine Arbeitgeberin. Neben der Fachschule finden hier auch Aus- und Fortbildungen statt. Damit ist verbunden, dass im Alltag nicht ausschließlich Lehrkräfte anzutreffen sind, sondern auch andere Personen, die dafür Sorge tragen, dass der Alltag bewältigt werden kann. Im Folgenden stellen sie sich einmal vor.
 
 **Nadine Linde - Das Herz der Pädagogika**
 
@@ -106,7 +107,7 @@ Mein häufigster Spruch des Tages : "Hallo und herzlich Willkommen an der Pädag
 <details>
 <sum.mary>Meine Aufgabe im Unternehmen</summary>
 
-Ich kümmere mich um die Organisation der Fort- und Weiterbildung, die Raumbelegung und um die Begrüßung der ankommenden Gäste. Auch für Fragen der Bibliothek bin ich Ansprechpartner*in.
+Ich kümmere mich um die Organisation der Fort- und Weiterbildung, die Raumbelegung sowie um die Begrüßung der ankommenden Gäste. Auch für Fragen rund um die Bibliothek bin ich Ansprechpartner*in.
 
 </details>
 
@@ -141,8 +142,7 @@ Kolleg*innen sagen über mich : "Sie ist die Klarheit und Struktur in Person."
 <details>
 <summary>Meine Aufgabe im Unternehmen</summary>
 
-Ich bin mit dem Unternehmen mitgewachsen. Ich bin Sozialpädagogin (B.A.),Bildungswissenschaftlerin (M.A.) und habe zusätzlich eine Master-Weiterbildung in Personalentwicklung absolviert. Gemeinsam mit meiner Kollegin Sandra Schmidt leite ich gemeinsam die Pädagogika. 
-
+Ich bin mit dem Unternehmen gewachsen: Als Sozialpädagogin (B.A.), Bildungswissenschaftlerin (M.A.) und mit einer zusätzlichen Master-Weiterbildung in Personalentwicklung leite ich gemeinsam mit meiner Kollegin Sandra Schmidt die Pädagogika.
 
 </details>
 
@@ -172,8 +172,7 @@ Kolleg*innen sagen über mich: "Sie strahlt immerzu wie die Sinne und ist neben 
 <details>
 <summary>Meine Aufgabe im Unternehmen</summary>
 
-Ich bin gelernte Erzieherin, zertifizierte Kitamanagerin sowie Kindheitspädagogin (B.A.) gegenwärtig absolviere ich noch ein Masterstudium in Sozialmanagement. Gemeinsam mit meiner Kollegin Anja Günther-Richter leite ich gemeinsam die Pädagogika. 
-
+Ich bin gelernte Erzieherin, zertifizierte Kitamanagerin und Kindheitspädagogin (B.A.). Aktuell studiere ich im Masterstudiengang Sozialmanagement. Gemeinsam mit meiner Kollegin Anja Günther-Richter leite ich die Pädagogika.
 
 </details>
 
@@ -197,8 +196,9 @@ E-Mail: sandra.schmidt@paedagogika.com
 <details>
 <summary>Meine Zentrale Eigenschaft</summary>
 
-Seit bald vierzig Jahren beschäftige ich mich mit pädagogischen Themen. Erst selbst als Erzieherin in unterschiedlichen Arbeitsfeldern in Berlin und nach dem Studium war ich bald als Dozentin in Aus- und Weiterbildung für ErzieherInnen an unterschiedlichen Standorten in Berlin und Brandenburg tätig. Im Team mit Stefan Hierholzer Bildungswege in der Pädagogika Fachschule für Sozialwesen zu begleiten, ist meine Passion. 
-Mit Kopf Herz und Hand bin auch ich für Sie da.
+Seit bald vierzig Jahren beschäftige ich mich mit pädagogischen Themen. Zunächst war ich selbst als Erzieherin in verschiedenen Arbeitsfeldern in Berlin tätig. Nach meinem Studium arbeitete ich als Dozentin in der Aus- und Weiterbildung von Erzieher*innen an unterschiedlichen Standorten in Berlin und Brandenburg.
+
+Im Team mit Stefan Hierholzer Bildungswege an der Pädagogika-Fachschule für Sozialwesen zu begleiten, ist meine Passion. Mit Kopf, Herz und Hand bin auch ich für Sie da.
 
 </details>
 
@@ -230,7 +230,11 @@ E-Mail: andrea.hoppe@paedagogika.com
 <details>
 <summary>Meine Zentrale Eigenschaft</summary>
 
-Hallo, mein Name ist Stefan Hierholzer, zusammen mit Andrea Hoppe darf ich die Pädagogika Fachschule in ihrer Entwicklung begleiten. Gebürtig aus Süddeutschland (Sindelfingen bei Stuttgart) habe ich in Lüneburg Lehramt an berufsbildenden Schulen, Fachrichtung Sozialpädagogik studiert und an verschiedenen Schulen und Hochschulen gearbeitet und gelehrt. Nun leiten Andrea Hoppe und ich zusammen die Geschicke der Pädagogika Fachschule für Sozialwesen. Bei Fragen stehe ich gerne zur Verfügung.
+Hallo, mein Name ist Stefan Hierholzer. Gemeinsam mit Andrea Hoppe darf ich die Pädagogika-Fachschule in ihrer Entwicklung begleiten.
+
+Gebürtig stamme ich aus Süddeutschland (Sindelfingen bei Stuttgart). Ich habe in Lüneburg Lehramt an berufsbildenden Schulen mit der Fachrichtung Sozialpädagogik studiert und war an verschiedenen Schulen und Hochschulen in Lehre und Ausbildung tätig.
+
+Heute leite ich gemeinsam mit Andrea Hoppe die Geschicke der Pädagogika-Fachschule für Sozialwesen. Bei Fragen stehe ich gerne zur Verfügung.
 
 </details>
 
@@ -261,14 +265,14 @@ E-Mail: stefan.hierholzer@paedagogika.com
 <details>
 <summary>Meine Zentrale Eigenschaft</summary>
 
-Hallo, mein Name ist Susanne Urban ich bin die Praxiskoordinatorin und für Fragen und Herausforderungen im Zusammenhang mit den Praxiseinrichtungen zuständig. Ich bin selbst gelernte Erzieherin, systemische Beraterin und Mediatorin.
+Hallo, mein Name ist Susanne Urban. Ich bin die Praxiskoordinatorin und Ansprechperson für Fragen und Herausforderungen im Zusammenhang mit den Praxiseinrichtungen. Ich bin selbst ausgebildete Erzieherin, systemische Beraterin und Mediatorin.
 
 </details>
 
 <details>
 <summary>Meine Aufgabe im Unternehmen</summary>
 
-Ich berate die Kitas bei der Realisierung von pädagogischen Konzepten und pädagogischen Alltagsherausforderungen. Darüber hinaus besuche ich euch neben den Lehrkräften am Praxisort 
+Ich unterstütze die Kitas bei der Umsetzung pädagogischer Konzepte und im Umgang mit alltäglichen Herausforderungen. Neben den Lehrkräften besuche auch ich euch regelmäßig an eurem Praxisort.
 
 </details>
 
@@ -283,16 +287,20 @@ E-Mail: fb1@paedagogika.com
 
 
 # 2. So sieht es in der Pädagogika aus- ein virtueller Rundgang 📍
->🛠 **Aufgabe**: Scha dich in der Pädagogika um und verschaffe dir einen ersten Eindruck. Lerne die Regeln für die Bibliothek kennen.
+>🛠 **Aufgabe**: Willkommen bei uns! Schau dich in der Pädagogika in Ruhe um und gewinne einen ersten Eindruck. Informiere dich dabei auch über die Regeln für die Nutzung unserer Bibliothek.
 
 Um die Pädagogika als virtuellen Rundgang erleben zu können klicke auf folgenden [Link für Pädagogikarundtour](https://lms.paedagogika.com/course/view.php?id=71).
 Folgendes Anmeldepasswort ist notwendig: **Paedagogika1!**
 viel Freude beim Rundgang.
 
-## 3. Krankheit- und Abwesenheiten melden 💊
-Keiner ist gerne krank ... dennoch passiert es nun mal. Da es sich bei der Pädagogika um eine kleine Fachschule handelt, ist ein Ausfall besonders schwerwiegend. Eine schnelle Information für die Schulleitung ist daher Gold wert.
+![Pädagogika](82086178c43a762a8cae8334bda5c8c0b354d871.jpg)
 
->Ideal ist es, wenn ihr euch krankmeldet, das Unterrichtsmaterial, das für den Unterricht geplant ist, an die Krankmeldungsmail anhängt, damit wir dies als Arbeitsauftrag an die Studierenden weitergeben können.
+## 3. Krankheit- und Abwesenheiten melden 💊
+Krank sein will niemand – aber manchmal geht es eben nicht anders. Gerade an einer kleinen Fachschule wie der Pädagogika ist ein Ausfall spürbar. Deshalb: Bitte informiere die Schulleitung so früh wie möglich. Das hilft bei der Planung und wird sehr geschätzt.
+
+Damit der Unterricht möglichst reibungslos weiterlaufen kann, bitten wir dich, im Krankheitsfall so früh wie möglich die Schulleitung zu informieren. Zusätzlich stellst du das vorbereitete Unterrichtsmaterial sowohl der Schulleitung zur Verfügung als auch im entsprechenden Moodle-Kurs für die Studierenden bereit.
+
+Bitte versorge die Studierenden außerdem über das Moodle-Forum mit einem klar formulierten Arbeitsauftrag, damit sie wissen, wie sie mit den Materialien arbeiten sollen.
 
 <details>
 <summary>Wo melde ich mich krank?</summary>
@@ -312,11 +320,13 @@ Bei Moodle handelt es sich um ein [Open-Source-Lern-Management-System](https://w
 
 ### Moodle eine hausinterne Anleitung
 
-Innerhalb des Moodlesystems ist auch eine differenziertes Anwendungsbuch hinterlegt, dass sowohl Schritt- für -Schritt Erklärungen enthält als auch differenzierte Videotutorials (https://lms.paedagogika.com/mod/book/view.php?id=1454). Nach dem Login ist dieses im Dozent_innenzimmer unter Anleitungen--->Moodle Anleitung zu finden.
+Innerhalb des Moodle-Systems findest du ein umfassendes Anwendungsbuch, das sowohl Schritt-für-Schritt-Erklärungen als auch detaillierte Video-Tutorials enthält. Du erreichst es direkt unter: https://lms.paedagogika.com/mod/book/view.php?id=1454
+
+Nach dem Login ist dieses Buch außerdem im Dozent_innenzimmer unter Anleitungen → Moodle-Anleitung zu finden: https://lms.paedagogika.com/mod/book/view.php?id=6564
 
 ---
 
-![](36ed80b0b596ee50bf2ffa4a0c883cd9a0b5eea7.png)
+![Moodle-Anleitung](60a2c50972cbc1e4619c99f42003f6f7233f4c04.png)
 
 
 ### 4.1 So ist die Moodlestrukur
@@ -324,33 +334,95 @@ Innerhalb des Moodlesystems ist auch eine differenziertes Anwendungsbuch hinterl
 <iframe src="https://app.Lumi.education/api/v1/run/-DsmjL/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### 4.2 Klassenraumstrukturen in Moodle
-Die Klassenräume in Moodle werden durch die Pädagogische Schulleitung zur Verfügung gestellt, daher weißen sie eine Grundsatzstruktur auf, die im folgenden erörtert wird.
-Insgesamt ist der Lehrraum in verschiedene Parzellen unterteilt, wie folgendes Video erklärt
+Die Klassenräume in Moodle werden durch die pädagogische Schulleitung zur Verfügung gestellt. Sie folgen daher einer einheitlichen Grundstruktur, die im Folgenden erläutert wird.
+
+Der virtuelle Lehrraum ist in mehrere Abschnitte unterteilt – sogenannte Parzellen –, wie im folgenden Video näher erklärt wird.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XgLqcXJyMr4?si=uXw7Vnuya03b5wTL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### 4.3 Dozent*innenzimmer
-Das Dozent*innenzimmer ist der Dreh- und Angelpunkt für die Lehrkräfte. Im folgenden Video gibt es eine kleine Übersicht: 
+Das Dozent*innenzimmer ist der zentrale Anlaufpunkt für alle Lehrkräfte. Im folgenden Video erhältst du eine kurze Übersicht über seine Funktionen und Möglichkeiten:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ulcVPUFKCCE?si=yQWzpC7oV31II00G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
-
-
 # 5. Schul- und Unterrichtszeiten
-Prinzipiell gilt, dass die Schule sich an den Schulferien des Landes Brandenburg hält. Die Unterrichtszeiten erstrecken sich von 08:30-16:30 Uhr bzw. bis 15:30 Uhr. Am Mittwoch und Donnerstag werden Zeiten für andere Lernformen ausgewiesen. An diesen Zeiten haben die Studierenden Selbstlernzeit hier findet kein Unterricht statt.
+Grundsätzlich orientiert sich die Schule an den Schulferien des Landes Brandenburg.
+Der Unterricht findet in der Regel von 08:30 bis 16:30 Uhr, freitags bis 15:30 Uhr statt.
+An Mittwochen und Donnerstagen sind Zeiten für andere Lernformen ausgewiesen. In diesen Zeitfenstern steht den Studierenden Selbstlernzeit zur Verfügung – es findet kein Präsenzunterricht statt.
 
-# 6. Aufgabe Lehrkräfte
-Mit der Fortentwicklung der Schule entwickeln sich auch die Zuständigkeiten und Aufgaben für verschiedene Personenruppen weiter. Die Schulleitung hat daher einen Überblick über die Aufgaben für die einzelnen Personengruppen entwickelt, die hier abzurufen sind (https://cloud.die-kinderwelt.com/s/kJD2NG6WA8qxGpA)
+![Unterrichtszeit](8df08835fe1f544e097ac320f11e4d3045b5f063.png)
+
+# 6. Aufgabe (Klassen-)Lehrkräfte
+Mit der Weiterentwicklung der Schule verändern sich auch Zuständigkeiten und Aufgaben der verschiedenen Personengruppen. Die Schulleitung hat deshalb eine Übersicht über die jeweiligen Aufgabenbereiche erstellt. Diese kann unter folgendem Link abgerufen werden:
+(https://lms.paedagogika.com/mod/wiki/view.php?pageid=266&group=0)
+
+---
+
+![(klassne-)lehrkraft](f5573a78915a20e3263a4698dbcf81bcd419d1d6.png)
 
 ## 6.1 Unterrichtsbeobachtung
-Im Zusammenhang mit dem Qualitätsmanagement der Schule besucht die pädagogische Schulleitung (später auch kollegiale Besuche) einmal im Jahr die Kolleg*innen im Unterricht zur Unterrichtsbeobachtung. Zielsetzung dabei ist die Reflexion des eigenen Lehrendenhandelns. Bei den Unterrichtsbeobachtungen handelt es sich um ein standarisiertes Verfahren, wie es hier zu finden ist (https://cloud.die-kinderwelt.com/s/Jy5YEQPF8ANHQgc)
+Im Zusammenhang mit dem Qualitätsmanagement der Schule besucht die pädagogische Schulleitung (später auch kollegiale Besuche) einmal im Jahr die Kolleg*innen im Unterricht zur Unterrichtsbeobachtung. Zielsetzung dabei ist die Reflexion des eigenen Lehrendenhandelns. Bei den Unterrichtsbeobachtungen handelt es sich um ein standarisiertes Verfahren, wie es hier zu finden ist (https://lms.paedagogika.com/mod/folder/view.php?id=5081)
+
+---
+
+![Unterrichtsjospitation](4eeaeab205c9bd1b53be1d2e4a05392eba58932e.png)
 
 ## 6.2 Notengebung, Studierendenkrankmeldung und Klassenbuchführung
 Die Notengebung erfolgt den Richtlinien des Landes Brandenburg nach. Für Klausuren liegt eine Bundeslandeigene Bepunktungsliste vor (https://cloud.die-kinderwelt.com/s/Kow7d4gowrZzYiF).
-Die Zensuren werden zentral über das Portal des Landes Brandenburg WeBBschule eingetragen (https://schulportal.brandenburg.de/webbschule/anmeldung), ebenso die Fehlzeiten. Die fehlzeiten werden freundlicherweise durch unseren Empfang eingetragen. Die Studierenden sind verpflichtet etwaige Fehlzeiten sofort über die Mailadresse krankschreibung@paedagogika.com zu melden.
+
+Für alle Bewertungsformen existiert ein Bewertungsleitfaden (https://lms.paedagogika.com/mod/wiki/view.php?pageid=267&group=0), der als Grundlage zur Beurteilung der Studierendenleistung heranzuziehen ist, dies ermöglicht sowohl ein transparentes als auch gleichwertiges Verfahren. Dessen ungeachtet ist jede Lehrperson in der Notengebung frei. 
+
+---
+
+> ## 📊 **Grundsätze der Leistungsmessung und rechtliche Rahmung in Brandenburg**
+>
+> 🧭 **Grundsätze der Leistungsmessung (Fachschule für Sozialwesen)**
+> Die Leistungsmessung verfolgt das Ziel, die individuelle Kompetenzentwicklung der Studierenden **transparent**, **gerecht** und **nachvollziehbar** zu dokumentieren. Sie soll lernförderlich sein und die pädagogische Entwicklung unterstützen.
+>
+> ### 🔑 Zentrale Grundsätze:
+>
+> * **Transparenz:** Bewertungskriterien müssen **vor der Leistungsmessung** bekannt sein.
+> * **Objektivität:** Die Bewertung erfolgt auf **fachlich begründeter Grundlage**.
+> * **Gleichbehandlung:** Alle Studierenden werden **nach gleichen Maßstäben** beurteilt.
+> * **Kompetenzorientierung:** Fokus auf **Fähigkeiten und Handlungswissen**, nicht nur auf Reproduktion.
+> * **Lernbegleitung:** Leistungsmessung dient auch der **individuellen Förderung**.
+>
+> ❗ **Wichtig:** Die Studierenden müssen **vor jeder Leistungsmessung** über **Ziel, Inhalt, Form und Bewertungsmaßstäbe** informiert sein. Nur so ist eine faire und transparente Bewertung möglich.
+>
+> ---
+>
+> 📘 **Rechtliche Grundlagen im Land Brandenburg**
+>
+> ### 1. **Brandenburgisches Schulgesetz (BbgSchulG)**
+>
+> * **§ 14** – Leistungsbewertung erfolgt auf Basis der vermittelten Inhalte und Kompetenzen. Bewertungsmaßstäbe sind **rechtzeitig vorab** bekannt zu geben.
+> * **§ 24** – Noten bilden die Leistungen und das Verhalten ab (Notenskala 1–6).
+>
+> ### 2. **Fachschulverordnung (FachV-FS)**
+>
+> * **§ 22** – Leistungsbewertung in **schriftlicher, mündlicher und praktischer Form**.
+> * **§§ 23–28** – Regelungen zur **Abschlussprüfung, Facharbeit, Bewertung, Wiederholung** und **Zeugnisvergabe**.
+>
+> ---
+>
+> 📎 **Empfehlung für die Praxis an der Fachschule für Sozialwesen:**
+> Die Nutzung eines **schulinternen Bewertungsleitfadens** wird empfohlen. Dieser sollte:
+>
+> * Bewertungsformate und -kriterien klar beschreiben,
+> * Kompetenzraster enthalten,
+> * einheitliche Standards schaffen.
+
+---
+
+
+
+
+### 6.2.1 Eintragungen im digitalen Klassenbuch (weBBschule)
+Die Zensuren werden zentral über das Portal des Landes Brandenburg WeBBschule eingetragen (https://schulportal.brandenburg.de/webbschule/anmeldung), ebenso die Fehlzeiten. Wie das geht zeigt folgendes Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PkXe-VZh5-c?si=9HnXObtTm-jJqDsm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## 6.3 corporate identity
 Im Kontext von Schule und Unterricht müssen immer wieder Lehr- und andere Materialien angefretigt werden, damit diese ein möglichst einheitliches Bild aufweisen und das corporate identity gewahrt wird gibt es Vorlagen, die hier abzurufen und zu verwenden sind (https://cloud.die-kinderwelt.com/s/Cem43k6NRa6HSdz)
-
