@@ -56,7 +56,7 @@ details[open] > *:not(summary) {
 
 # Hallo und herzlich Willkommen an der Pädagogika Fachschule für Sozialwesen in Potsdam- Lehrkräfteversion 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY</a></p>---
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/S2IfEQqgWc0AH4r6Al" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/minions-despicableme-despicableme4-despicablememovie-S2IfEQqgWc0AH4r6Al">via GIPHY</a></p>
 
 ---
 
@@ -420,8 +420,7 @@ Für alle Bewertungsformen existiert ein Bewertungsleitfaden (https://lms.paedag
 ### 6.2.1 Eintragungen im digitalen Klassenbuch (weBBschule)
 Die Zensuren werden zentral über das Portal des Landes Brandenburg WeBBschule eingetragen (https://schulportal.brandenburg.de/webbschule/anmeldung), ebenso die Fehlzeiten. Wie das geht zeigt folgendes Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PkXe-VZh5-c?si=9HnXObtTm-jJqDsm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwhWEzueQ7s?si=w9ud9ZPD_WGInyEJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 6.3 corporate identity
 Im Kontext von Schule und Unterricht müssen immer wieder Lehr- und andere Materialien angefretigt werden, damit diese ein möglichst einheitliches Bild aufweisen und das corporate identity gewahrt wird gibt es Vorlagen, die hier abzurufen und zu verwenden sind (https://cloud.die-kinderwelt.com/s/Cem43k6NRa6HSdz)
