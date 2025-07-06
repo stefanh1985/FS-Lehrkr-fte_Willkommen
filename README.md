@@ -424,3 +424,39 @@ Die Zensuren werden zentral über das Portal des Landes Brandenburg WeBBschule e
 
 ## 6.3 corporate identity
 Im Kontext von Schule und Unterricht müssen immer wieder Lehr- und andere Materialien angefretigt werden, damit diese ein möglichst einheitliches Bild aufweisen und das corporate identity gewahrt wird gibt es Vorlagen, die hier abzurufen und zu verwenden sind (https://cloud.die-kinderwelt.com/s/Cem43k6NRa6HSdz)
+
+
+## 6.4 Modulhandbuch
+Modulhandbücher sorgen für Transparenz und Vergleichbarkeit unserer Ausbildung. Sie helfen, die Inhalte klar darzustellen und erleichtern die spätere Anrechnung an Hochschulen (DQR Niveau 6).
+
+---
+
+###  ✍️ Handreichung Modulhandbuch
+
+Alle Lehrenden tragen ihre Module einmal pro Schuljahr in die Nextcloud ein. Diese Angaben werden genutzt, um den Studierenden am Ende der Ausbildung ein Modulhandbuch mitzugeben, das z. B. für Studienbewerbungen dient.
+
+⏰ **Abgabe der Moduleinträge binnen der ersten 4 Wochen nach Schuljahresbeginn:**
+🔗 [Nextcloud-Link](https://cloud.die-kinderwelt.com/s/xAiELgQokyze7o3)
+
+🎥 **Video zur Unterstützung:**
+🔗 [YouTube-Video](https://youtu.be/dxA04R3P0Rs?si=YM8UYlLGnFnq69pJ)
+
+🤖 **Unser Chatbot begleitet dich Schritt für Schritt:**
+🔗 [Modulhandbuchsbuddy](https://chatgpt.com/g/g-6839cc0d25748191b800916006d91649-fur-lehrendenkollegen-modulhandbuchsbuddy)
+
+---
+
+### 💡 Modulhandbuchseintrag erstellen
+
+* Modul auswählen 🗂️
+* Inhalte und Kompetenzen kurz und klar eintragen ✏️
+* Angaben zur Literatur und Prüfungsform ergänzen 📄
+* In der Nextcloud hochladen ⬆️
+
+---
+
+✅ Mit dieser Übersicht können neue Kolleg\*innen sofort loslegen und sich in unserem System zurechtfinden.
+
+---
+
+Wenn du möchtest, kann ich dir die finale Version auch als druckfertiges Dokument (Markdown, Word oder PDF) ausgeben!
