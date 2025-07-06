@@ -6,8 +6,8 @@ icon:     https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo
 version:  0.0.1
 language: de
 narrator: Deutsch Male
-comment:  Dieses Dokument dient der Begrüßung neuer Studierender
-tags:     Neue studierende, Pädagogika, Fachschule, Tutorial
+comment:  Dieses Dokument dient der Begrüßung neuer Lehrender
+tags:     Neue Lehrende, Pädagogika, Fachschule, Tutorial
 
 
 @style
@@ -455,57 +455,37 @@ Alle Lehrenden tragen ihre Module einmal pro Schuljahr in die Nextcloud ein. Die
 
 ---
 
-## 6.5 Tools für Lehrnde und Lernende
-Wir setzten soweit als irgend möglich auf Open Source Lösungen, da diese Bildungsgerechtigkeit und digitale Barrierefreiheit sowie digitale Teilhabe vorantreiben.
-Neben Moodle werden die Studierenden angehalten sich bei
-* HackMD (https://hackmd.okfn.de/) 
-* Kalender digital (https://kalender.digital/) 
-* Cryptpad (https://cryptpad.private.coffee/)  
-* Lumi Education (https://lumi.education/) anzumelden
+## 6.5 Öffentlichkeitsarbeit mittels Instagram  
 
-### 6.5.1 HackMD (https://hackmd.okfn.de/) 
-* Was ist HackMD?
-Kostenloses Online-Tool für gemeinsames Schreiben in Markdown.
-Inhalte werden automatisch versioniert, Änderungen sichtbar.
-* Relevanz für den Unterricht:
-Gemeinsam Unterrichtsentwürfe oder Protokolle schreiben.
-Studierende können live an Texten, Präsentationen oder Projektideen arbeiten.
-Fördert kollaboratives Arbeiten und schnelle Abstimmung.
-* Ein Erklärvido
-[HackMD](https://www.youtube.com/watch?v=krDHtbVhkhU&t=166s)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/XYHJBjNtpYzSl8FJml" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/simax-avatar-deaf-dgs-XYHJBjNtpYzSl8FJml">via GIPHY</a></p>
+
+---
+
+Auszubildende zu gewinnen und den Erzieher*innenberuf authentisch zu präsentieren. Durch Bilder und kurze Videos können Projekte, Praxisphasen und das Schulleben anschaulich vermittelt werden.
+
+Dabei stehen emotionale Einblicke, Authentizität und die Einhaltung von Datenschutz (z. B. keine erkennbaren Kinderfotos ohne Einwilligung) im Vordergrund. Posts und Reels sprechen besonders junge Zielgruppen an und fördern ein modernes, lebendiges Schulimage.
+
+---
+
+![Bild 1](1bd55ad25c195d56dda60d3edaa6961c72658be2.jpg)
+
+---
+
+![Bild 2](ea927cfa27cd473e4f3a7ab57d523f4d54086137.jpg)
+
+---
+
+Lehrkräfte und Studierende planen Inhalte gemeinsam, beachten Qualitätsstandards und kommunizieren in einem freundlichen, professionellen Ton. Hashtags und interaktive Formate (z. B. Stories mit Umfragen) helfen, Reichweite und Bindung zu stärken.
+
+![Insta Zusammenfassung](92b925ea943e2a2786bc8265cbb20b869a8cc255.png)
 
 
-### 6.5.2 Kalender digital (https://kalender.digital/) 
-* Was ist Kalender.digital?
-Kostenloser, browserbasierter Online-Kalender aus Deutschland.
-DSGVO-konform, ohne Werbung.
-Individuell anpassbar (Farben, Ansichten, öffentliche oder private Links).
-* Relevanz für den Unterricht:
-Planung von Terminen, Abgaben, Projekten und Veranstaltungen.
-Studierende können Termine einfach einsehen oder eigene hinzufügen (z. B. im Klassenkalender).
-Praktisch für Praxiswochen, Prüfungen oder Elternabende.
-* Ein Erklärvideo 
-[Kalender digital](https://youtu.be/Ro44TWnQljQ?si=jq8ruOMW1L1nvbm_)
 
-### 6.5.3 Cryptpad (https://cryptpad.private.coffee/) 
-* Was ist CryptPad?
-Kostenloses, datenschutzfreundliches Online-Office.
-Funktionen: Textdokumente, Kanban-Boards, Tabellen, Präsentationen, Formulare.
-Keine Anmeldung nötig, alles Ende-zu-Ende verschlüsselt.
-* Relevanz für den Unterricht:
-Für gemeinsame Gruppenarbeiten (z. B. Projektplanung, Textarbeit).
-Reflexionen oder Unterrichtsnotizen können digital und sicher gesammelt werden.
-Ideal für Schulen mit hohem Datenschutzanspruch (DSGVO).
-* Ein Erklärvideo
-[Cryptpad](https://youtu.be/4NOvtdttk5s?si=Z4l_p0jR94ZGAyIv)
 
-### 6.5.4 Lumi Education (https://lumi.education/) 
-* Was ist Lumi?
-Kostenloses Open-Source-Tool zum Erstellen von interaktiven H5P-Lerninhalten (z. B. Quizze, interaktive Videos, Präsentationen).
-Läuft offline auf Windows, Mac und Linux.
-* Relevanz für den Unterricht:
-Lehrkräfte /Studierende können leicht interaktive Materialien selbst erstellen, z. B. Lückentexte, Drag & Drop oder Multiple Choice.
-Inhalte können direkt in Moodle, Nextcloud oder auf Webseiten eingebunden werden.
-Fördert aktive Beteiligung und Selbstlernen bei Studierenden.
-* Ein Erklärvideo 
-[Lumi Education](https://youtu.be/lTTcrTXFM7U?si=7afJoGsCf_oIr-MP)
+
+Folgende Ideen zur Realisirung sind dabei bislang vorligend
+
+
+
+
+
