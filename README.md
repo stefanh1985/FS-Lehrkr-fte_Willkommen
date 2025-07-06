@@ -455,8 +455,57 @@ Alle Lehrenden tragen ihre Module einmal pro Schuljahr in die Nextcloud ein. Die
 
 ---
 
-✅ Mit dieser Übersicht können neue Kolleg\*innen sofort loslegen und sich in unserem System zurechtfinden.
+## 6.5 Tools für Lehrnde und Lernende
+Wir setzten soweit als irgend möglich auf Open Source Lösungen, da diese Bildungsgerechtigkeit und digitale Barrierefreiheit sowie digitale Teilhabe vorantreiben.
+Neben Moodle werden die Studierenden angehalten sich bei
+* HackMD (https://hackmd.okfn.de/) 
+* Kalender digital (https://kalender.digital/) 
+* Cryptpad (https://cryptpad.private.coffee/)  
+* Lumi Education (https://lumi.education/) anzumelden
 
----
+### 6.5.1 HackMD (https://hackmd.okfn.de/) 
+* Was ist HackMD?
+Kostenloses Online-Tool für gemeinsames Schreiben in Markdown.
+Inhalte werden automatisch versioniert, Änderungen sichtbar.
+* Relevanz für den Unterricht:
+Gemeinsam Unterrichtsentwürfe oder Protokolle schreiben.
+Studierende können live an Texten, Präsentationen oder Projektideen arbeiten.
+Fördert kollaboratives Arbeiten und schnelle Abstimmung.
+* Ein Erklärvido
+[HackMD](https://www.youtube.com/watch?v=krDHtbVhkhU&t=166s)
 
-Wenn du möchtest, kann ich dir die finale Version auch als druckfertiges Dokument (Markdown, Word oder PDF) ausgeben!
+
+### 6.5.2 Kalender digital (https://kalender.digital/) 
+* Was ist Kalender.digital?
+Kostenloser, browserbasierter Online-Kalender aus Deutschland.
+DSGVO-konform, ohne Werbung.
+Individuell anpassbar (Farben, Ansichten, öffentliche oder private Links).
+* Relevanz für den Unterricht:
+Planung von Terminen, Abgaben, Projekten und Veranstaltungen.
+Studierende können Termine einfach einsehen oder eigene hinzufügen (z. B. im Klassenkalender).
+Praktisch für Praxiswochen, Prüfungen oder Elternabende.
+* Ein Erklärvideo 
+[Kalender digital](https://youtu.be/Ro44TWnQljQ?si=jq8ruOMW1L1nvbm_)
+
+### 6.5.3 Cryptpad (https://cryptpad.private.coffee/) 
+* Was ist CryptPad?
+Kostenloses, datenschutzfreundliches Online-Office.
+Funktionen: Textdokumente, Kanban-Boards, Tabellen, Präsentationen, Formulare.
+Keine Anmeldung nötig, alles Ende-zu-Ende verschlüsselt.
+* Relevanz für den Unterricht:
+Für gemeinsame Gruppenarbeiten (z. B. Projektplanung, Textarbeit).
+Reflexionen oder Unterrichtsnotizen können digital und sicher gesammelt werden.
+Ideal für Schulen mit hohem Datenschutzanspruch (DSGVO).
+* Ein Erklärvideo
+[Cryptpad](https://youtu.be/4NOvtdttk5s?si=Z4l_p0jR94ZGAyIv)
+
+### 6.5.4 Lumi Education (https://lumi.education/) 
+* Was ist Lumi?
+Kostenloses Open-Source-Tool zum Erstellen von interaktiven H5P-Lerninhalten (z. B. Quizze, interaktive Videos, Präsentationen).
+Läuft offline auf Windows, Mac und Linux.
+* Relevanz für den Unterricht:
+Lehrkräfte /Studierende können leicht interaktive Materialien selbst erstellen, z. B. Lückentexte, Drag & Drop oder Multiple Choice.
+Inhalte können direkt in Moodle, Nextcloud oder auf Webseiten eingebunden werden.
+Fördert aktive Beteiligung und Selbstlernen bei Studierenden.
+* Ein Erklärvideo 
+[Lumi Education](https://youtu.be/lTTcrTXFM7U?si=7afJoGsCf_oIr-MP)
