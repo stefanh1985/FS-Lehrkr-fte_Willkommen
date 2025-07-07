@@ -425,6 +425,8 @@ Die Zensuren werden zentral über das Portal des Landes Brandenburg WeBBschule e
 ## 6.3 corporate identity
 Im Kontext von Schule und Unterricht müssen immer wieder Lehr- und andere Materialien angefretigt werden, damit diese ein möglichst einheitliches Bild aufweisen und das corporate identity gewahrt wird gibt es Vorlagen, die hier abzurufen und zu verwenden sind [https://cloud.die-kinderwelt.com/s/Cem43k6NRa6HSdz](https://lms.paedagogika.com/mod/folder/view.php?id=1455)
 
+![coperate identity](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/corporate%20identity.png?raw=true)
+
 
 ## 6.4 Modulhandbuch
 Modulhandbücher sorgen für Transparenz und Vergleichbarkeit unserer Ausbildung. Sie helfen, die Inhalte klar darzustellen und erleichtern die spätere Anrechnung an Hochschulen (DQR Niveau 6).
