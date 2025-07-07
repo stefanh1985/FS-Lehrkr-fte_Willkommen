@@ -482,13 +482,7 @@ Dabei stehen emotionale Einblicke, Authentizität und die Einhaltung von Datensc
 
 Lehrkräfte und Studierende planen Inhalte gemeinsam, beachten Qualitätsstandards und kommunizieren in einem freundlichen, professionellen Ton. Hashtags und interaktive Formate (z. B. Stories mit Umfragen) helfen, Reichweite und Bindung zu stärken.
 
-![Insta Zusammenfassung](92b925ea943e2a2786bc8265cbb20b869a8cc255.png)
 
-
-
-
-
-Folgende Ideen zur Realisirung sind dabei bislang vorligend
 
 
 
