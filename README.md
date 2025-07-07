@@ -365,7 +365,7 @@ Im Zusammenhang mit dem Qualitätsmanagement der Schule besucht die pädagogisch
 
 ---
 
-![Unterrichtsjospitation](4eeaeab205c9bd1b53be1d2e4a05392eba58932e.png)
+![Unterrichtsjospitation](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Unterrichtshospitation.png?raw=true)
 
 ## 6.2 Notengebung, Studierendenkrankmeldung und Klassenbuchführung
 Die Notengebung erfolgt den Richtlinien des Landes Brandenburg nach. Für Klausuren liegt eine Bundeslandeigene Bepunktungsliste vor (https://cloud.die-kinderwelt.com/s/Kow7d4gowrZzYiF).
