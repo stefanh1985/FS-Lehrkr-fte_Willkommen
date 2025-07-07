@@ -472,11 +472,11 @@ Dabei stehen emotionale Einblicke, Authentizität und die Einhaltung von Datensc
 
 ---
 
-![Bild 1](1bd55ad25c195d56dda60d3edaa6961c72658be2.jpg)
+![Bild 1](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Instaformat1.jpg?raw=true) 
 
 ---
 
-![Bild 2](ea927cfa27cd473e4f3a7ab57d523f4d54086137.jpg)
+![Bild 2](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Instaformat2.jpg?raw=true) 
 
 ---
 
