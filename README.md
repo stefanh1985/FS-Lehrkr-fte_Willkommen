@@ -184,37 +184,31 @@ E-Mail: sandra.schmidt@paedagogika.com
 
 </details>
 
-**Andrea Hoppe - Organisatorische Schulleitung**
+**Sandra Schmidt - Organisatorische Schulleitung**
 ===
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ftLPYN7bQ1A?si=bubOGlmyBwN5_HG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-![Andrea Hoppe - Organisatorische Schulleitung](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=andrea-hoppe.jpg)<!-- class="person-img" -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CzzVDJP_u08?si=Ir47Cq9rjpyAEzrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
 
 <details>
 <summary>Meine Zentrale Eigenschaft</summary>
 
-Seit bald vierzig Jahren beschäftige ich mich mit pädagogischen Themen. Zunächst war ich selbst als Erzieherin in verschiedenen Arbeitsfeldern in Berlin tätig. Nach meinem Studium arbeitete ich als Dozentin in der Aus- und Weiterbildung von Erzieher*innen an unterschiedlichen Standorten in Berlin und Brandenburg.
-
-Im Team mit Stefan Hierholzer Bildungswege an der Pädagogika-Fachschule für Sozialwesen zu begleiten, ist meine Passion. Mit Kopf, Herz und Hand bin auch ich für Sie da.
+Kolleg*innen sagen über mich: "Sie strahlt immerzu wie die Sinne und ist neben Nadine die freundlichste Person im Haus."
 
 </details>
 
 <details>
 <summary>Meine Aufgabe im Unternehmen</summary>
 
-Ich bin mit Stefan Hierholzer die Co-Schulleitung und bin mit den organisatorischen Aufgaben betraut. 
-
+Ich bin gelernte Erzieherin, zertifizierte Kitamanagerin und Kindheitspädagogin (B.A.). Aktuell studiere ich im Masterstudiengang Sozialmanagement. Gemeinsam mit meiner Kollegin Anja Günther-Richter leite ich die Pädagogika.
 
 </details>
 
 <details>
 <summary>Ihr erreicht mich unter</summary>
 
-Telefonnummer: +4933170476212
+Telefonnummer: +4933170476207
 
-E-Mail: andrea.hoppe@paedagogika.com
+E-Mail: sandra.schmidt@paedagogika.com
 
 </details>
 
@@ -253,7 +247,7 @@ E-Mail: stefan.hierholzer@paedagogika.com
 
 </details>
 
-**Susanne Urban - Praxiskkordination**
+**Susanne Urban - Praxiskkordination + LF 4**
 ===
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lhBc119sd48?si=a8VDTFX7bBO5zNXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
