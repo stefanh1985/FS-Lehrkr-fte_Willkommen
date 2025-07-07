@@ -423,7 +423,7 @@ Die Zensuren werden zentral über das Portal des Landes Brandenburg WeBBschule e
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwhWEzueQ7s?si=w9ud9ZPD_WGInyEJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 6.3 corporate identity
-Im Kontext von Schule und Unterricht müssen immer wieder Lehr- und andere Materialien angefretigt werden, damit diese ein möglichst einheitliches Bild aufweisen und das corporate identity gewahrt wird gibt es Vorlagen, die hier abzurufen und zu verwenden sind (https://cloud.die-kinderwelt.com/s/Cem43k6NRa6HSdz)
+Im Kontext von Schule und Unterricht müssen immer wieder Lehr- und andere Materialien angefretigt werden, damit diese ein möglichst einheitliches Bild aufweisen und das corporate identity gewahrt wird gibt es Vorlagen, die hier abzurufen und zu verwenden sind [https://cloud.die-kinderwelt.com/s/Cem43k6NRa6HSdz](https://lms.paedagogika.com/mod/folder/view.php?id=1455)
 
 
 ## 6.4 Modulhandbuch
