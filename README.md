@@ -358,7 +358,7 @@ Mit der Weiterentwicklung der Schule verändern sich auch Zuständigkeiten und A
 
 ---
 
-![(klassne-)lehrkraft](f5573a78915a20e3263a4698dbcf81bcd419d1d6.png)
+![(KLassen-)lehrkraft](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Klassenlehrkraft.png?raw=true)
 
 ## 6.1 Unterrichtsbeobachtung
 Im Zusammenhang mit dem Qualitätsmanagement der Schule besucht die pädagogische Schulleitung (später auch kollegiale Besuche) einmal im Jahr die Kolleg*innen im Unterricht zur Unterrichtsbeobachtung. Zielsetzung dabei ist die Reflexion des eigenen Lehrendenhandelns. Bei den Unterrichtsbeobachtungen handelt es sich um ein standarisiertes Verfahren, wie es hier zu finden ist (https://lms.paedagogika.com/mod/folder/view.php?id=5081)
