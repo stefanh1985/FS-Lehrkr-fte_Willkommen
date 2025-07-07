@@ -431,6 +431,9 @@ Im Kontext von Schule und Unterricht müssen immer wieder Lehr- und andere Mater
 ## 6.4 Modulhandbuch
 Modulhandbücher sorgen für Transparenz und Vergleichbarkeit unserer Ausbildung. Sie helfen, die Inhalte klar darzustellen und erleichtern die spätere Anrechnung an Hochschulen (DQR Niveau 6).
 
+
+![Modulhandbuch](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Modulhandbuch.png?raw=true)
+
 ---
 
 ###  ✍️ Handreichung Modulhandbuch
