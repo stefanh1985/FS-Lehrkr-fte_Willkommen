@@ -350,7 +350,7 @@ Grundsätzlich orientiert sich die Schule an den Schulferien des Landes Brandenb
 Der Unterricht findet in der Regel von 08:30 bis 16:30 Uhr, freitags bis 15:30 Uhr statt.
 An Mittwochen und Donnerstagen sind Zeiten für andere Lernformen ausgewiesen. In diesen Zeitfenstern steht den Studierenden Selbstlernzeit zur Verfügung – es findet kein Präsenzunterricht statt.
 
-![Unterrichtszeit] (https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Unterrichtszeiten.png?raw=true)
+![Unterrichtszeit](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Unterrichtszeiten.png?raw=true)
 
 # 6. Aufgabe (Klassen-)Lehrkräfte
 Mit der Weiterentwicklung der Schule verändern sich auch Zuständigkeiten und Aufgaben der verschiedenen Personengruppen. Die Schulleitung hat deshalb eine Übersicht über die jeweiligen Aufgabenbereiche erstellt. Diese kann unter folgendem Link abgerufen werden:
