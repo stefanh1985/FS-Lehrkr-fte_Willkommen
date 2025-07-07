@@ -155,36 +155,7 @@ E-Mail: leitung@paedagogika.com
 </details>
 
 
-**Sandra Schmidt- Das Head of +2**
-===
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CzzVDJP_u08?si=Ir47Cq9rjpyAEzrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
--->
-
-<details>
-<summary>Meine Zentrale Eigenschaft</summary>
-
-Kolleg*innen sagen über mich: "Sie strahlt immerzu wie die Sinne und ist neben Nadine die freundlichste Person im Haus."
-
-</details>
-
-<details>
-<summary>Meine Aufgabe im Unternehmen</summary>
-
-Ich bin gelernte Erzieherin, zertifizierte Kitamanagerin und Kindheitspädagogin (B.A.). Aktuell studiere ich im Masterstudiengang Sozialmanagement. Gemeinsam mit meiner Kollegin Anja Günther-Richter leite ich die Pädagogika.
-
-</details>
-
-<details>
-<summary>Ihr erreicht mich unter</summary>
-
-Telefonnummer: +4933170476207
-
-E-Mail: sandra.schmidt@paedagogika.com
-
-</details>
-
-**Sandra Schmidt - Organisatorische Schulleitung**
+**Sandra Schmidt - die Allrounderin- Organisatorische Schulleitung +Das Head of +2***
 ===
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CzzVDJP_u08?si=Ir47Cq9rjpyAEzrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
