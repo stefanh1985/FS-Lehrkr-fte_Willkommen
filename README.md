@@ -325,7 +325,7 @@ Nach dem Login ist dieses Buch außerdem im Dozent_innenzimmer unter Anleitungen
 
 ---
 
-![Moodle-Anleitung]([60a2c50972cbc1e4619c99f42003f6f7233f4c04.png](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Moodle-Anleitung.png](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Moodle-Anleitung.png)
+![Moodle-Anleitung](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Moodle-Anleitung.png?raw=true)
 
 
 ### 4.1 So ist die Moodlestrukur
