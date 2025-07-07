@@ -292,7 +292,7 @@ Um die Pädagogika als virtuellen Rundgang erleben zu können klicke auf folgend
 Folgendes Anmeldepasswort ist notwendig: **Paedagogika1!**
 viel Freude beim Rundgang.
 
-![Pädagogika](82086178c43a762a8cae8334bda5c8c0b354d871.jpg)
+![Pädagogika](https://github.com/stefanh1985/FS-Lehrkr-fte_Willkommen/blob/main/Paedagogika.png?raw=true)
 
 ## 3. Krankheit- und Abwesenheiten melden 💊
 Krank sein will niemand – aber manchmal geht es eben nicht anders. Gerade an einer kleinen Fachschule wie der Pädagogika ist ein Ausfall spürbar. Deshalb: Bitte informiere die Schulleitung so früh wie möglich. Das hilft bei der Planung und wird sehr geschätzt.
