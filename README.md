@@ -448,8 +448,101 @@ Dabei stehen emotionale Einblicke, Authentizität und die Einhaltung von Datensc
 Lehrkräfte und Studierende planen Inhalte gemeinsam, beachten Qualitätsstandards und kommunizieren in einem freundlichen, professionellen Ton. Hashtags und interaktive Formate (z. B. Stories mit Umfragen) helfen, Reichweite und Bindung zu stärken.
 
 
+### 6.6 Freistellungsanträge – Verfahren und Rolle der Lehrkräfte 🧾
 
+Im Schulalltag kommt es immer wieder vor, dass Studierende aus besonderen Gründen vom Unterricht freigestellt werden müssen. Damit dies transparent, rechtssicher und für alle Beteiligten nachvollziehbar abläuft, gilt an der Fachschule ein einheitliches Verfahren.
 
+Für Lehrkräfte ist wichtig: Freistellungen sind kein informeller „Nebenweg“, sondern ein **formal geregelter Prozess** mit klaren Zuständigkeiten.
 
+---
 
+#### Was bedeutet eine Freistellung?
+Eine Freistellung ist eine **offiziell beantragte und genehmigte Befreiung vom Unterricht**.  
+Sie erfolgt nur in **begründeten Ausnahmefällen** und muss immer **schriftlich beantragt** werden.
+
+Typische Gründe können sein:
+
+- wichtige familiäre Anlässe  
+- ärztliche Termine ohne Alternativmöglichkeit  
+- Vorstellungsgespräche  
+- ehrenamtliche Einsätze  
+- ausbildungsbezogene Veranstaltungen  
+
+---
+
+#### Rechtlicher Rahmen
+Die Teilnahme am Unterricht ist gesetzlich verpflichtend. Eine Freistellung stellt deshalb immer eine **Ausnahmeentscheidung** dar.
+
+Maßgeblich sind:
+
+- **Brandenburgisches Schulgesetz (BbgSchulG), § 43**  
+  → Verpflichtung zur regelmäßigen Teilnahme am Unterricht  
+- **Fachschulverordnung des Landes Brandenburg (BbgFSV)**  
+  → Regelungen zur Anwesenheit und Mitwirkungspflicht  
+- **Schulinterne Verfahrensregelungen**  
+  → Konkrete Abläufe zur Beantragung und Genehmigung  
+
+---
+
+#### Ablauf des Verfahrens
+Der Prozess folgt einem festen Ablauf:
+
+1. **Formular aus der Studierendenhandakte herunterladen**  
+   (Stichwort: „Freistellungsantrag“)
+
+2. **Begründung schriftlich eintragen**  
+   Die Begründung muss nachvollziehbar und konkret sein.
+
+3. **Frist beachten**  
+   Der Antrag muss **mindestens 14 Tage vor dem Termin** eingereicht werden.
+
+4. **Einreichung per E-Mail**  
+   An die Klassenleitung mit dem Betreff:  
+   **„Freistellung vom Unterricht“**
+
+5. **Rückmeldung abwarten**  
+   Die Genehmigung erfolgt digital durch Klassenleitung oder Schulleitung.
+
+Während einer genehmigten Freistellung sind die Studierenden verpflichtet, **versäumte Inhalte eigenständig nachzuarbeiten**.
+
+---
+
+#### Zuständigkeiten
+Die Entscheidung über eine Freistellung hängt vom beantragten Zeitraum ab:
+
+| Zeitraum der Freistellung | Zuständig |
+|---------------------------|-----------|
+| bis zu 3 Unterrichtstage  | Klassenleitung |
+| mehr als 3 Unterrichtstage | Schulleitung |
+
+Bei längeren Freistellungen kann ein Gespräch mit der Schulleitung erforderlich sein, um Auswirkungen auf Leistungsnachweise und Fehlzeiten zu klären.
+
+---
+
+#### Wichtige Hinweise für Lehrkräfte
+- Eine Freistellung gilt **nur nach offizieller Genehmigung** als entschuldigt.  
+- **Nachträgliche Anträge** sind nur in begründeten Ausnahmefällen möglich.  
+- Unentschuldigtes Fehlen kann **pädagogische Konsequenzen** bis hin zur Nichtzulassung zur Prüfung haben.  
+- Genehmigte Anträge werden in der **Studierendenakte dokumentiert**.
+
+---
+
+#### Rolle der Lehrkräfte im Verfahren
+Lehrkräfte übernehmen eine **klärende und strukturierende Funktion**:
+
+- Studierende auf das offizielle Verfahren verweisen  
+- keine mündlichen „Sonderabsprachen“ treffen  
+- bei Anträgen bis zu drei Tagen entscheiden (Klassenleitung)  
+- bei längeren Zeiträumen an die Schulleitung verweisen  
+- versäumte Leistungsnachweise transparent regeln  
+
+Ziel ist ein **einheitliches, nachvollziehbares und rechtssicheres Vorgehen** für alle Beteiligten.
+
+---
+
+#### Zugehöriges Dokument
+📄 **Vorlage: Freistellungsantrag**  
+(Download in der Studierendenhandakte im Moodle-System)
+
+Der Antrag wird digital ausgefüllt und entsprechend der Fristen eingereicht.
 
